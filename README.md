@@ -1,6 +1,6 @@
 # outscraper-instantly-prep
 
-A PHP script that transforms raw [Outscraper](https://outscraper.com) CSV exports into hyper-personalized cold email leads ready for [Instantly.ai](https://instantly.ai).
+A PHP utility script that transforms raw [Outscraper](https://outscraper.com) CSV exports into hyper-personalized cold email leads ready for [Instantly.ai](https://instantly.ai).
 
 Built for local service business outreach — auto shops, HVAC, plumbing, roofing, landscaping, and more.
 
